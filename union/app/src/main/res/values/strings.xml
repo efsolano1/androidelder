@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">union</string>
+    <string name="app_name">UNION</string>
+    <string name="nuevo">Logueo</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="listar">Listar</string>
+    <string name="camara">Camara</string>
+    <string name="title_activity_nuevo">Nuevo</string>
+    <string name="title_activity_lista">LISTA</string>
+    <string name="title_activity_sincronizar">SINCRONIZAR</string>
+    <string name="title_activity_camara">CAMARA</string>
 </resources>

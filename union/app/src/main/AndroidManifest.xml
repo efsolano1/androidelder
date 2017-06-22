@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Nuevo"
+            android:label="@string/title_activity_nuevo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lista"
+            android:label="@string/title_activity_lista"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Sincronizar"
+            android:label="@string/title_activity_sincronizar"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Camara"
+            android:label="@string/title_activity_camara"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
